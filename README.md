@@ -1,4 +1,4 @@
-# code-retreat-june-2019
+# Reactive Conf Code Retreat
 
 ## Description of tasks:
 ### Game of Life
